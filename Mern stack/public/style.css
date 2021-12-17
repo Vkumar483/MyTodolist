@@ -1,0 +1,19 @@
+body{
+    background: skyblue;
+    color: white;
+    text-align: center;
+}
+li{
+    font-size: 40px;
+}
+li:hover{
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: line-through
+}
+h3{
+    font-size: 5px;
+}
+h3:hover{
+    font-weight: bold;
+}
